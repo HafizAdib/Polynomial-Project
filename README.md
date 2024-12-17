@@ -20,12 +20,12 @@ Avant d'exécuter ce projet, vous devez avoir installé un compilateur C (comme 
 
 1. Clonez ce repository sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-nom-d'utilisateur/manipulation-polynomes.git
+   git clone https://github.com/HafizAdib/Polynomial-Project.git
    ```
 
 2. Accédez au dossier du projet :
    ```bash
-   cd manipulation-polynomes
+   cd Polynomial-Project
    ```
 
 3. Compilez le projet avec **GCC** :
@@ -94,27 +94,6 @@ Q(x) = x^2 - 3x + 2
 ```
 
 Ensuite, l'utilisateur peut effectuer des opérations comme l'addition ou la multiplication sur ces polynômes.
-
-## Contribuer
-
-Si vous souhaitez contribuer à ce projet, vous pouvez le forker et soumettre une pull request. Voici les étapes pour contribuer :
-
-1. Forkez ce projet en cliquant sur le bouton "Fork" en haut à droite de la page GitHub.
-2. Créez une branche pour vos modifications :
-   ```bash
-   git checkout -b feature-nouvelle-fonctionnalité
-   ```
-3. Committez vos changements :
-   ```bash
-   git commit -am 'Ajout d\'une nouvelle fonctionnalité'
-   ```
-4. Poussez vos modifications :
-   ```bash
-   git push origin feature-nouvelle-fonctionnalité
-   ```
-5. Ouvrez une pull request pour que vos changements soient examinés.
-
----
 
 ## Aide et Support
 
